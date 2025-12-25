@@ -1,7 +1,8 @@
-#ToDoListUsingPythonStreamlit
+# ToDoListUsingPythonStreamlit
+
 A simple task manager application built with Streamlit and Python. This app allows users to manage their tasks, including adding new tasks, marking tasks as completed, deleting tasks, and viewing task analytics. Tasks are stored in a CSV file (tasks.csv) for persistence.
 
-Features
+**Features**
 
 Add Task: Add new tasks with due dates, priority levels, and comments.
 
@@ -13,7 +14,7 @@ Analytics: View statistics about your tasks, such as the total number of tasks, 
 
 Clear All Tasks: Clear all tasks from the list in one click.
 
-Tech Stack
+**Tech Stack**
 
 Python: The primary programming language used for building the app.
 
@@ -23,7 +24,7 @@ Pandas: Used to manage and manipulate task data stored in CSV format.
 
 CSV: Tasks are saved in a tasks.csv file for persistence.
 
-Usage
+**Usage**
 
 Once the app is running, you can access the following features from the sidebar:
 
@@ -39,7 +40,7 @@ Clear All Tasks: Delete all tasks in the list.
 
 Tasks are saved automatically to a file named tasks.csv in the project directory.
 
-Installation
+**Installation**
 
 Install Dependencies To install the necessary libraries, run the following command in your terminal:
 
